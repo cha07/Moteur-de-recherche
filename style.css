@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.explore{
+    padding-top: 250px;
+}
+
+body{
+    background-color: #5e596e;
+background-image: url("https://www.transparenttextures.com/patterns/crossword.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+    overflow:hidden;
+    
+}
